@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/ExamplePhoto.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Linguistics grad student."
   location         : "Montreal, QC"
-  email            :
+  email            : example (at) example.example
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
